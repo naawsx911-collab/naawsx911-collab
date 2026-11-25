@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Nawaf Al-Jabri
 
-<!--
-**naawsx911-collab/naawsx911-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+App Developer from Yemen - Hadhramaut.
+Programming is my only hobby, and I love it.
+I'm learning step by step, building real projects, not just theory.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning Now
+- Flutter for Apps
+- Python
+- HTML, CSS & JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Current Project
+**Nawaf Al-Jabri App**
+A mental-health & behavioral therapy app.
+My goal: Publish it for free first, then officially on Google Play.
+
+### 📫 How to reach me
+- GitHub: You are already here
+- I love collaborating with beginners like me
+
+---
+⭐ If you like my journey, follow me - I'm building in public.
